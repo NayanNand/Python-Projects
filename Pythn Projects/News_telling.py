@@ -1,6 +1,5 @@
 import json
 import requests
-
 def speak(str) :
     from win32com.client import Dispatch
     spk = Dispatch("SAPI.SpVoice")

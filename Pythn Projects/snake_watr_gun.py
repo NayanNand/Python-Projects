@@ -1,7 +1,6 @@
 print("\t\t\t Snake, Water, Gun GAME !")
 
 print("You Have 10 games to play with computer") 
-# setting the inital scores as 0
 player = 0
 comp = 0
 chance = 0
